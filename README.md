@@ -41,15 +41,19 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 ### Average Math and Reading Scores for Each Grade Level from Each School
 ![Average math scores, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/math_scores_by_grade_old.png)
+
 Average math scores for each grade level from each school, old
 
 ![Average math scores, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/math_scores_by_grade_new.png)
+
 Average math scores for each grade level from each school, new
 
 ![Average reading scores, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_old.png)
+
 Average reading scores for each grade level from each school, old
 
 ![Average reading scores, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_new.png)
+
 Average reading scores for each grade level from each school, new
 
 How does replacing the ninth-grade scores affect the math and reading scores by grade?
