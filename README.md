@@ -9,6 +9,7 @@ The purpose of this analysis is to replace the math and reading scores for ninth
 ### District Summary Analysis
 ![District Summary, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/district_summary_old.png)
 District summary, old
+
 ![District Summary, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/district_summary_new.png)
 District summary, new
 
@@ -18,6 +19,7 @@ How is the district summary affected?
 ### School Summary Analysis
 ![School summary, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/school_summary_old.png)
 School summary, old
+
 ![School summary, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/school_summary_new.png)
 School summary, new
 
@@ -27,8 +29,10 @@ How is the school summary affected?
 ### Top 5 and Bottom 5 Performing Schools
 ![Top 5 performing schools, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/top_five_schools_old.png)
 Top 5 performing schools, based on overall passing rate, old
+
 ![Top 5 performing schools, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/top_five_schools_new.png)
 Top 5 performing schools, based on overall passing rate, new
+
 ![Bottom 5 performing schools, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/bottom_five_schools.png)
 Bottom 5 performing schools, based on overall passing rate
 
@@ -38,10 +42,13 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 ### Average Math and Reading Scores for Each Grade Level from Each School
 ![Average math scores, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/math_scores_by_grade_old.png)
 Average math scores for each grade level from each school, old
+
 ![Average math scores, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/math_scores_by_grade_new.png)
 Average math scores for each grade level from each school, new
+
 ![Average reading scores, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_old.png)
 Average reading scores for each grade level from each school, old
+
 ![Average reading scores, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_new.png)
 Average reading scores for each grade level from each school, new
 
@@ -51,6 +58,7 @@ How does replacing the ninth-grade scores affect the math and reading scores by 
 ### Scores by School Spending per Student
 ![Scores by school spending per student, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/scores_by_spending_old.png)
 Scores by school spending per student, old
+
 ![Scores by school spending per student, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/scores_by_spending_new.png)
 Scores by school spending per student, new
 
@@ -60,6 +68,7 @@ How does replacing the ninth-grade scores affect the performance scores by schoo
 ### Scores by School Size
 ![Scores by school size, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/scores_by_size_old.png)
 Scores by school size, old
+
 ![Scores by school size, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/scores_by_size_new.png)
 Scores by school size, new
 
@@ -69,6 +78,7 @@ How does replacing the ninth-grade scores affect the performance scores by schoo
 ### Scores by school type
 ![Scores by school type, old](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/scores_by_type_old.png)
 Scores by school type, old
+
 ![Scores by school type, new](https://github.com/mschimmy/School_District_Analysis/blob/main/Resources/scores_by_type_new.png)
 Scores by school type, new
 
